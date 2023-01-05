@@ -1,0 +1,121 @@
+ * {
+     margin: 0;
+
+ }
+
+ .header {}
+
+ .img {
+     width: 1494px;
+     height: 669px;
+     left: -45px;
+     top: 0px;
+
+     background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+ }
+
+ .banner-title {
+     color: #FFFFFF;
+     position: absolute;
+     width: 826px;
+     height: 158px;
+     left: 307px;
+     top: 174px;
+     font-family: 'Inter';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 65px;
+     line-height: 79px;
+     text-align: center;
+
+ }
+
+ .banner-description {
+     color: #FFFFFF;
+     position: absolute;
+     width: 691px;
+     height: 56px;
+     left: 375px;
+     top: 352px;
+     font-family: 'Poppins';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 18px;
+     line-height: 28px;
+     text-align: center;
+ }
+
+ .btn-primary {
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     padding: 16px 12px;
+     gap: 8px;
+     position: absolute;
+     width: 160px;
+     height: 56px;
+     left: 640px;
+     top: 438px;
+     background: #FF5959;
+     border-radius: 5px;
+ }
+
+ /* donate today */
+ .section-title {
+     
+     font-family: 'Inter';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 45px;
+    
+     text-align: center;
+     color: #121212;
+
+ }
+ 
+ .donate{
+    margin-top: 100px;
+ }
+ .section-description {
+    
+     
+     font-family: 'Poppins';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 18px;
+     
+     text-align: center;
+     color: #707070;
+
+ }
+ .donate-info{
+    background-color:whitesmoke;
+     height: 150px;
+     width: 150px;
+     margin: 0 10px;
+     /* background-color: #707070; */
+  }
+ .donate-description {
+    text-align: center;
+     color: #000000;
+     font-family: 'Inter';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 30px;
+     margin-top: 65px;
+     
+ }
+ #orange{
+    border:5px solid orangered;
+ }
+.span{
+    color: orangered;
+}
+
+ .donate-info-container{
+    margin: 50px 0;
+    display: flex;
+    justify-content: center;
+ }
+ .
