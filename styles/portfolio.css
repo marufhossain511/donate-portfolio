@@ -118,10 +118,10 @@
      color: orangered;
  }
 
-.primary-button{
-    display: flex;
-    justify-content: center;
-}
+ .primary-button {
+     display: flex;
+     justify-content: center;
+ }
 
 
  .button {
@@ -131,7 +131,7 @@
      align-items: center;
      padding: 16px 12px;
      gap: 8px;
-      
+
      width: 160px;
      height: 56px;
      left: 640px;
@@ -297,7 +297,7 @@
      height: 48px;
      margin-top: 76px;
      display: flex;
-   
+
 
  }
 
@@ -311,12 +311,49 @@
  }
 
  .btn {
-    color: white;
+     color: white;
      width: 157px;
      height: 46px;
-    margin-top: 76px;
-    margin-left: 2px;
-    background: #FF5959;
-    border-radius: 0px 5px 5px 0px;
-  
+     margin-top: 76px;
+     margin-left: 2px;
+     background: #FF5959;
+     border-radius: 0px 5px 5px 0px;
+
+ }
+
+ /* footer */
+
+
+ .footer {
+     background: #0B0D17;
+     left: 0%;
+     right: 0%;
+     top: 95.52%;
+     bottom: 0%;
+     
+ }
+
+ .footer-title {
+     font-family: 'Lobster';
+     width: 158px;
+     height: 44px;
+     font-weight: 400;
+     font-size: 36px;
+     line-height: 44px;
+     letter-spacing: 0.5px;
+     color: #FF5959;
+
+ }
+
+ .footer-description {
+     font-family: 'Manrope';
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 24px;
+     height: 24px;
+     color: #D9DBE1;
+     flex: none;
+     order: 1;
+     flex-grow: 0;
+
  }
